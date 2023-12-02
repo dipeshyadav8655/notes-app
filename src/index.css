@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f2f4f7;
+}
+
+.ql-toolbar.ql-snow {
+  display: none;
+  width: 0;
+  height: 0;
+}
+input {
+  background-color: #f2f4f7;
+  border: 1px solid #cccccc;
+  outline: none;
+  height: 4vw;
+  margin: 2vw 0;
+}
+.ql-editor {
+  border-top: 1px solid #cccccc;
+  height: 50vw;
+}
+.ql-container {
+  height: 50vw;
+}
+img,
+iframe {
+  width: 300px;
+  height: 300px;
+  margin-left: 20vw;
+}
+.card-discription {
+  overflow: hidden;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .loderContainer {
+    position: absolute;
+    top: 70vw;
+  }
+  .loderImage {
+    width: 60%;
+    height: auto;
+  }
+  .empty-state-image {
+    width: 34vw;
+  }
+  .new-btn,
+  .save-btn {
+    box-shadow: none;
+    background-color: #f2f4f7;
+    color: #579bc3;
+  }
+  .title-input {
+    height: fit-content;
+  }
+  img,
+  iframe {
+    width: 50%;
+    height: 50%;
+    margin-left: 18vw;
+  }
+  .card-discription {
+    height: 21px;
+  }
+}
