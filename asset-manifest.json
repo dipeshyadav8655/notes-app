@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/notes-app/static/css/main.1a5cf429.css",
-    "main.js": "/notes-app/static/js/main.084cf432.js",
+    "main.css": "/notes-app/static/css/main.1c181138.css",
+    "main.js": "/notes-app/static/js/main.fe78950d.js",
     "static/js/787.ade4cc30.chunk.js": "/notes-app/static/js/787.ade4cc30.chunk.js",
     "static/media/output-onlinegiftools.gif": "/notes-app/static/media/output-onlinegiftools.4202f22d740a00943ef2.gif",
     "static/media/Add tasks-bro.svg": "/notes-app/static/media/Add tasks-bro.f102aebc0000e02a0baa5ae0dfc09fff.svg",
     "index.html": "/notes-app/index.html",
-    "main.1a5cf429.css.map": "/notes-app/static/css/main.1a5cf429.css.map",
-    "main.084cf432.js.map": "/notes-app/static/js/main.084cf432.js.map",
+    "main.1c181138.css.map": "/notes-app/static/css/main.1c181138.css.map",
+    "main.fe78950d.js.map": "/notes-app/static/js/main.fe78950d.js.map",
     "787.ade4cc30.chunk.js.map": "/notes-app/static/js/787.ade4cc30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a5cf429.css",
-    "static/js/main.084cf432.js"
+    "static/css/main.1c181138.css",
+    "static/js/main.fe78950d.js"
   ]
 }
